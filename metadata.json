@@ -1,0 +1,7 @@
+{
+  "name": "Hyperlocal Urban Heat Index Forecasting",
+  "description": "Multi-modal deep learning platform for hyperlocal Urban Heat Island (UHI) 1–48h forecasting at 100m resolution fusing satellite LST, IoT sensor networks, and street-level imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
